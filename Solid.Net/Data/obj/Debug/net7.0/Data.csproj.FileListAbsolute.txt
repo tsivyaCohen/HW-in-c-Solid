@@ -1,0 +1,14 @@
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\bin\Debug\net7.0\Data.deps.json
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\bin\Debug\net7.0\Data.runtimeconfig.json
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\bin\Debug\net7.0\Data.dll
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\bin\Debug\net7.0\Data.pdb
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\obj\Debug\net7.0\Data.csproj.AssemblyReference.cache
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\obj\Debug\net7.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\obj\Debug\net7.0\Data.AssemblyInfoInputs.cache
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\obj\Debug\net7.0\Data.AssemblyInfo.cs
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\obj\Debug\net7.0\Data.csproj.CoreCompileInputs.cache
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\obj\Debug\net7.0\Data.dll
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\obj\Debug\net7.0\refint\Data.dll
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\obj\Debug\net7.0\Data.pdb
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\obj\Debug\net7.0\Data.genruntimeconfig.cache
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Data\obj\Debug\net7.0\ref\Data.dll

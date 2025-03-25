@@ -1,0 +1,17 @@
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\bin\Debug\net7.0\Service.deps.json
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\bin\Debug\net7.0\Service.dll
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\bin\Debug\net7.0\Service.pdb
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\bin\Debug\net7.0\Data.dll
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\bin\Debug\net7.0\Data.pdb
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\Service.dll
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\refint\Service.dll
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\Service.pdb
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\ref\Service.dll
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\bin\Debug\net7.0\Service.runtimeconfig.json
+M:\PH\kt-14\tichnut\Tsivya Cohen\C# מתקדם\תרגילים\Solid\Solid.Net\Service\obj\Debug\net7.0\Service.genruntimeconfig.cache
